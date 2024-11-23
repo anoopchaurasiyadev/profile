@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anoopch31442879" target="blank"><img src="https://img.shields.io/twitter/follow/anoopch31442879?logo=twitter&style=for-the-badge" alt="anoopch31442879" /></a> </p>
 
-- 🔭 I’m currently working on Oak Tree Software [Bettercoach](https://bettercoach.io/)
-
+- 🔭 I’m currently working on Oak Tree Software 
 - 🌱 I’m currently learning **Python, React JS**
 
 - 💬 Ask me about **Ruby, Ruby on Rails, APIs,Web Applications**
